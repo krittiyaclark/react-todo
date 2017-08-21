@@ -1,4 +1,4 @@
-var React = reqquire('react');
+var React = require('react');
 
 require('./css/addItem.css');
 
